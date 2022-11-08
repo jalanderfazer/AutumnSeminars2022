@@ -1,0 +1,15 @@
+G:\Мой диск\Обучение\IT_learning\Знакомство с языками программирования (семинары)\Homeworks\HomeWork1\bin\Debug\net6.0\HomeWork1.exe
+G:\Мой диск\Обучение\IT_learning\Знакомство с языками программирования (семинары)\Homeworks\HomeWork1\bin\Debug\net6.0\HomeWork1.deps.json
+G:\Мой диск\Обучение\IT_learning\Знакомство с языками программирования (семинары)\Homeworks\HomeWork1\bin\Debug\net6.0\HomeWork1.runtimeconfig.json
+G:\Мой диск\Обучение\IT_learning\Знакомство с языками программирования (семинары)\Homeworks\HomeWork1\bin\Debug\net6.0\HomeWork1.dll
+G:\Мой диск\Обучение\IT_learning\Знакомство с языками программирования (семинары)\Homeworks\HomeWork1\bin\Debug\net6.0\HomeWork1.pdb
+G:\Мой диск\Обучение\IT_learning\Знакомство с языками программирования (семинары)\Homeworks\HomeWork1\obj\Debug\net6.0\HomeWork1.csproj.AssemblyReference.cache
+G:\Мой диск\Обучение\IT_learning\Знакомство с языками программирования (семинары)\Homeworks\HomeWork1\obj\Debug\net6.0\HomeWork1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Мой диск\Обучение\IT_learning\Знакомство с языками программирования (семинары)\Homeworks\HomeWork1\obj\Debug\net6.0\HomeWork1.AssemblyInfoInputs.cache
+G:\Мой диск\Обучение\IT_learning\Знакомство с языками программирования (семинары)\Homeworks\HomeWork1\obj\Debug\net6.0\HomeWork1.AssemblyInfo.cs
+G:\Мой диск\Обучение\IT_learning\Знакомство с языками программирования (семинары)\Homeworks\HomeWork1\obj\Debug\net6.0\HomeWork1.csproj.CoreCompileInputs.cache
+G:\Мой диск\Обучение\IT_learning\Знакомство с языками программирования (семинары)\Homeworks\HomeWork1\obj\Debug\net6.0\HomeWork1.dll
+G:\Мой диск\Обучение\IT_learning\Знакомство с языками программирования (семинары)\Homeworks\HomeWork1\obj\Debug\net6.0\refint\HomeWork1.dll
+G:\Мой диск\Обучение\IT_learning\Знакомство с языками программирования (семинары)\Homeworks\HomeWork1\obj\Debug\net6.0\HomeWork1.pdb
+G:\Мой диск\Обучение\IT_learning\Знакомство с языками программирования (семинары)\Homeworks\HomeWork1\obj\Debug\net6.0\HomeWork1.genruntimeconfig.cache
+G:\Мой диск\Обучение\IT_learning\Знакомство с языками программирования (семинары)\Homeworks\HomeWork1\obj\Debug\net6.0\ref\HomeWork1.dll
