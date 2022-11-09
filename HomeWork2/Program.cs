@@ -54,14 +54,8 @@ else
 
 bool DayOff(int day)
 {
-    if(day == 6|| day == 7)
-    {
-        return true;
-    }
-    else
-    {
-        return false;
-    }
+    if(day == 6|| day == 7) return true;
+    else return false;
 }
 
 Console.Write("Input a day of week number (1,2....7): ");
