@@ -64,8 +64,9 @@ void PrintArray(int[] array)
     {
         if (i == 0) Console.Write($"[{array[i]}, ");
         else if (i == 7) Console.Write($"{array[i]}]");
-        else if (i < 7 & i > 0) Console.Write($"{array[i]}, ");
-        else Console.Write($"You must input 8-digit number");
+        else Console.Write($"{array[i]}, ");
+//      else if (i < 7 & i > 0) Console.Write($"{array[i]}, ");
+//      else Console.Write($"You must input 8-digit number");
     }
 }
 int[] array = new int[8];
