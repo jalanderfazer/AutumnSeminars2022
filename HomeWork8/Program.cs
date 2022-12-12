@@ -328,7 +328,7 @@ void ShowArray(int[,] array)
     Console.WriteLine();
 }
 
-int left = -1; // Левая граница
+int left = 0; // Левая граница
 Console.Write("Input a number of rows: ");
 int right = Convert.ToInt32(Console.ReadLine()); // Правая граница
 int bottom = 0; // Нижняя граница
